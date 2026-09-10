@@ -32,3 +32,4 @@ research notes.
 ## 📫 Connect
 
 - GitHub: [@AlfinAI](https://github.com/AlfinAI)
+- Telegram: [@JoestarMojo](https://t.me/JoestarMojo)
