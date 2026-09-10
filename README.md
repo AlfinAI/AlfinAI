@@ -1,14 +1,23 @@
 # Hi, I'm Alfin 👋
 
-Mobile security researcher & Python developer from Indonesia.
+**Mobile security researcher & Python developer from Indonesia.**
 I reverse-engineer Android apps to understand how real-world APIs work — then turn the
-findings into clean, well-tested open-source tools.
+findings into clean, well-tested open-source tools. Every endpoint traced to a capture
+or a reference; unknowns are marked TODO, never shipped as fact.
+
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| **[QrisMerchantID](https://github.com/AlfinAI/QrisMerchantID)** [![PyPI](https://img.shields.io/pypi/v/QrisMerchantID.svg)](https://pypi.org/project/QrisMerchantID/) [![Tests](https://github.com/AlfinAI/QrisMerchantID/actions/workflows/test.yml/badge.svg)](https://github.com/AlfinAI/QrisMerchantID/actions/workflows/test.yml) | Unofficial Indonesian QRIS merchant API client for Python — GoPay/GoBiz + ShopeePay: OTP login, transaction feeds, dynamic QRIS, payment watcher |
+| **[ovoid-python](https://github.com/AlfinAI/ovoid-python)** [![PyPI](https://img.shields.io/pypi/v/ovoid.svg)](https://pypi.org/project/ovoid/) [![Tests](https://github.com/AlfinAI/ovoid-python/actions/workflows/test.yml/badge.svg)](https://github.com/AlfinAI/ovoid-python/actions/workflows/test.yml) | Unofficial OVO (`ovo.id`) API client for Python — complete port of `lintangtimur/ovoid` (PHP), verified against a real APK teardown |
 
 ## 🔍 Focus
 
 - 🤖 Android reverse engineering — APK analysis, network & API research
 - 🐍 Python SDK and developer tooling — typed, tested, documented
 - 🔐 Mobile API security — auth flows, crypto, certificate pinning
+- 💳 Indonesian e-wallet & QRIS merchant APIs — GoPay, ShopeePay, OVO
 
 ## 🛠️ Stack
 
@@ -21,13 +30,6 @@ findings into clean, well-tested open-source tools.
 ![jadx](https://img.shields.io/badge/jadx-4B5563?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 📌 Featured
-
-**[ovoid-python](https://github.com/AlfinAI/ovoid-python)** — Unofficial OVO (`ovo.id`)
-API client for Python. A complete port of `lintangtimur/ovoid` (PHP), verified against a
-real APK teardown: 14 services, an offline test suite with 100% coverage, and published
-research notes.
 
 ## 📫 Connect
 
